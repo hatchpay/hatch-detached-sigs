@@ -1,1 +1,1 @@
-# dash-detached-sigs
+# hatch-detached-sigs
